@@ -1,0 +1,37 @@
+﻿{
+  "name": "com.cantetf.terraformer",
+  "displayName": "Terraformer",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "Terraformer is a GPU Stamp based Terrain Authoring Tool for Unity",
+  "keywords": [
+    "terrain",
+    "stamp",
+    "authoring",
+    "tool",
+    "unity",
+    "gpu",
+    "non-destructive"
+  ],
+  "category": "Unity",
+  "documentationUrl": "",
+  "licensesUrl": "https://opensource.org/licenses/MIT",
+  "changelogUrl": "",
+  "type": "tool",
+  "dependencies": {
+    "com.svermeulen.extenject": "9.2.0-stcf3"
+  },
+  
+  "hideInEditor": false,
+  "samples": [
+    {
+      "displayName": "Examples",
+      "description": "Scene examples",
+      "path": "Samples~/Examples"
+    }
+  ],
+  "author": {
+    "name": "Félix Cantet",
+    "url": "Path/To/My/Github/And/Portfolio"
+  }
+}
